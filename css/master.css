@@ -1,22 +1,30 @@
 .contact{
-  width: 500px;
-  height: 100px;
+  width: 550px;
+  height: auto;
+  min-height: 120px;
   display: inline-flex;
   box-shadow: 1px 1px 30px #616161;
+  border-top: 10px solid #B71C1C;
   background: #EF5350;
+  margin-bottom: 10px;
 
 }
 
 .contact .pic{
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: auto;
+  min-height: 120px;
+  padding-left: 17px;
+  padding-top: 17px;
 }
 
 .contact .information{
   padding-top: 10px;
   padding-left: 20px;
+  padding-bottom: 10px;
   width: 100px;
-  height: 100px;
+  height: auto;
+  min-height: 120px;
   color: #fff;
 
 }
