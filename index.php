@@ -68,7 +68,7 @@
                  ?>
                   <div class="contact animated fadeInUp">
                     <div class="pic">
-                      <img class="img-circle" src="image/img1.gif"  alt="" />
+                      <img class="img-circle" src="image/img2.gif"   alt="" />
                     </div>
                     <div class="information">
                       <table>

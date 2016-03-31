@@ -11,13 +11,16 @@
 }
 
 .contact .pic{
-  width: 120px;
+  width: 135px !important;
   height: auto;
   min-height: 120px;
   padding-left: 17px;
-  padding-top: 17px;
+  padding-top: 10px;
 }
-
+.contact .pic img{
+  width: 120px !important;
+  height: 120px !important;
+}
 .contact .information{
   padding-top: 10px;
   padding-left: 20px;
